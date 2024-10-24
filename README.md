@@ -69,4 +69,6 @@ To run this project, ensure you have the following dependencies installed:
 ## 🖥️ Presentation
 You can view the presentation that summarizes the project, its findings, and key takeaways at the following link to the presentation.
 
+https://www.canva.com/design/DAGUZPic7z4/jv55AtrmTDS8abIYniaevg/edit?utm_content=DAGUZPic7z4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
